@@ -50,7 +50,8 @@ function App() {
     template();
   },[])
   return (
-    <div >
+    // this is not completed ----- frontent 
+    <div > 
     <img src={chai} className="img-fluid" alt=".." width="100%" />
     <p style={{ marginTop: "10px", marginLeft: "5px" }}>
       <small>Connected Account - {account}</small>
